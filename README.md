@@ -3,6 +3,12 @@
 The project runs using ionic technology.  
 This technology use Angular 2 with Typescript.
 
+### Requirements
+
+* [NodeJS] : [nodejs.org](https://nodejs.org/en/)
+* [XCode] : [itunes.apple.com](https://itunes.apple.com/fr/app/xcode/id497799835?mt=12) 
+* [Java] : [oracle.com](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
 
 ### Project dependencies
 
